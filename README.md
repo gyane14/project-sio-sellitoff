@@ -8,7 +8,7 @@ An attempt at full stack development with MERN. The app "SELL-IT-OFF" is a e-com
 * Express
 * React
 * Node
-..and love&#10084;
+
 
 ### MongoDB
   You are requested to connect the app with your own account at MongoDB Cloud. To do so:
